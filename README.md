@@ -1,10 +1,12 @@
-#🛍️ Customer Shopping Behavior Analysis
+# 🛍️ Customer Shopping Behavior Analysis
+
 
 A complete End-to-End Data Analytics Project that analyzes customer shopping behavior using Python, MySQL, and Power BI to extract actionable business insights and build an interactive decision-making dashboard.
 
 This project demonstrates the full analytics pipeline — from data cleaning and exploration to database querying and business intelligence visualization.
 
-#📊 Project Overview
+## 📊 Project Overview
+
 
 Understanding customer purchasing behavior is crucial for businesses to improve marketing strategies, optimize product offerings, and enhance customer experience.
 
@@ -20,8 +22,10 @@ How does customer behavior vary across product categories?
 
 The insights are presented through an interactive Power BI dashboard connected directly to a MySQL database.
 
-#🧰 Tech Stack
+## 🧰 Tech Stack
+
 Tool	Purpose
+
 Python	Data cleaning, preprocessing, exploratory analysis
 Pandas & NumPy	Data manipulation and transformation
 Matplotlib & Seaborn	Data visualization during EDA
@@ -30,7 +34,8 @@ ODBC Connector	Connection between MySQL and Power BI
 Power BI	Interactive dashboard and business intelligence visualization
 Jupyter Notebook	Development environment for Python analysis
 
-#⚙️ Project Workflow
+## ⚙️ Project Workflow
+
 
 The project follows a structured data analytics pipeline:
 
@@ -46,7 +51,8 @@ Power BI Connection via ODBC
    ↓
 Interactive Business Intelligence Dashboard
 
-#🧹 Data Cleaning & Preprocessing
+## 🧹 Data Cleaning & Preprocessing
+
 
 Performed using Python (Pandas) in Jupyter Notebook.
 
@@ -66,7 +72,8 @@ Feature inspection and validation
 
 This ensures the dataset is clean, reliable, and ready for analysis.
 
-#🗄️ Database Integration (MySQL)
+##🗄️ Database Integration (MySQL)
+
 
 After preprocessing, the cleaned dataset was stored in MySQL to enable structured analysis.
 
@@ -80,7 +87,8 @@ Performed analytical SQL queries
 
 Generated aggregated metrics for reporting
 
-#📈 Business Questions Answered Using SQL
+## 📈 Business Questions Answered Using SQL
+
 
 Some of the key analytical questions explored:
 
@@ -96,13 +104,15 @@ Which product categories have the highest sales volume?
 
 These insights help businesses understand customer purchasing patterns.
 
-#📊 Power BI Dashboard
+## 📊 Power BI Dashboard
+
 
 An interactive dashboard was created in Power BI using data imported from MySQL via ODBC connection.
 
 Key Dashboard Features
 
-✔ KPI Cards
+## ✔ KPI Cards
+
 
 Total Customers
 
@@ -110,7 +120,8 @@ Average Purchase Amount
 
 Average Review Rating
 
-#✔ Visualizations
+## ✔ Visualizations
+
 
 Revenue by Category
 
@@ -122,7 +133,8 @@ Sales by Age Group
 
 Customer Subscription Distribution
 
-#✔ Interactive Filters
+## ✔ Interactive Filters
+
 
 Subscription Status
 
