@@ -5,6 +5,9 @@ A complete End-to-End Data Analytics Project that analyzes customer shopping beh
 
 This project demonstrates the full analytics pipeline — from data cleaning and exploration to database querying and business intelligence visualization.
 
+## Dataset used
+
+- <a herf = "https://github.com/SahilKumar-003/Customer-Shopping-Behavior-Analysis/blob/main/Dashboard%20Image.png" >Dataset </a>
 ## 📊 Project Overview
 
 
