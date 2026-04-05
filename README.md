@@ -8,6 +8,7 @@ This project demonstrates the full analytics pipeline — from data cleaning and
 ## Dataset used
 
 - <a herf = "https://github.com/SahilKumar-003/Customer-Shopping-Behavior-Analysis/blob/main/Dashboard%20Image.png" >Dataset </a>
+
 ## 📊 Project Overview
 
 
