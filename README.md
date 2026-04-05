@@ -110,7 +110,7 @@ These insights help businesses understand customer purchasing patterns.
 
 ## 📊 Power BI Dashboard
 
-
+- <a href= "https://github.com/SahilKumar-003/Customer-Shopping-Behavior-Analysis/blob/main/Dashboard_image.png"> Dashboard Image </a>
 An interactive dashboard was created in Power BI using data imported from MySQL via ODBC connection.
 
 Key Dashboard Features
